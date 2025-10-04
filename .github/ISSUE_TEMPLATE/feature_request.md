@@ -3,7 +3,8 @@ name: Feature Request
 about: Suggest an idea for this project
 title: '[FEATURE] '
 labels: ['enhancement', 'feature-request']
-assignees: ''
+assignees: ['JosemaING']
+projects: ['JosemaING/1']
 ---
 
 **Is your feature request related to a problem? Please describe.**
