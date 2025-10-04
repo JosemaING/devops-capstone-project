@@ -1,3 +1,11 @@
+---
+name: User Story
+about: Create a user story for new features or functionality
+title: '[USER STORY] '
+labels: ['user-story', 'enhancement']
+assignees: ''
+---
+
 **As a** developer  
 **I need** to implement REST API endpoints for Account management  
 **So that** I can perform CRUD operations on customer accounts through a RESTful microservice  
